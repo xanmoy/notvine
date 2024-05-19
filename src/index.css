@@ -33,12 +33,12 @@ body {
 }
 
 .container {
-  width: 95vw;
-  height: 95vh;
+  width: 100vw;
+  height: 100vh;
   background-color: #18181b;
   /* background-color: rgba(24, 24, 27, 0.75); */
   backdrop-filter: blur(19px) saturate(180%) contrast(45%) brightness(130%);
-  border-radius: 12px;
+  /* border-radius: 12px; */
   /* border: 1px solid rgba(255, 255, 255, 0.125); */
   display: flex;
 }
